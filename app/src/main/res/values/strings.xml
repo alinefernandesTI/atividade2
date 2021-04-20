@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">atividade2</string>
+    <string name="grupo1">Grupo1</string>
+    <string name="grupo2">Grupo2</string>
+    <string name="grupo3">Grupo3</string>
+    <string-array name="grupo1" >
+        <item>Item1</item>
+    </string-array>
+    <string-array name="grupo2" >
+        <item>Item1</item>
+        <item>Item2</item>
+    </string-array>
+    <string-array name="grupo3" >
+        <item>Item1</item>
+        <item>Item2</item>
+        <item>Item3</item>
+    </string-array>
+</resources>
